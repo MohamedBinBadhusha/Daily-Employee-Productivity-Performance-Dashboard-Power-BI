@@ -65,6 +65,11 @@ This dashboard simulates a real-time performance tracker for use by:
 
 ---
 
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/628901cf-d7f3-45a7-b67e-50dc8a10bc47)
+
+---
 
 ## 🚀 How to Use
 
